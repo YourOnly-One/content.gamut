@@ -1,3 +1,7 @@
+# Break Free from Walled Gardens
+
+![Migrating Penguin](https://cdn.jsdelivr.net/gh/YourOnly-One/content.gamut/rsc/img/Migrating%20Penguin-Moini-cc0.png "〈Migrating Penguin〉 by Moini, dedicated to the Public Domain under CC0 1.0 Universal.")
+
 If you already have years' worth of content and data from centralised services and you want to import these into your ATmosphere account, it is not exactly straightforward for most people. Luckily, there are awesome developers who created tools to help you import your content and data into your ATmosphere account so you can truly own and control it.
 
 If there is no tool yet for a particular centralised service you want to import from, simply shout out in the ATmosphere network and cross your fingers. A developer might get interested in it and start developing one. Just be patient, or better yet, hire them!
