@@ -1,6 +1,6 @@
 # A List of Kitchen Sink Posts
 
-![Vintage Kitchen](https://cdn.jsdelivr.net/gh/YourOnly-One/content.gamut/rsc/img/vintage-kitchen-O%20Sulvia-cc0.png "〈Vintage Kitchen〉 by O Sulvia, dedicated to the Public Domain under CC0 1.0 Universal.")
+![Vintage Kitchen](https://cdn.jsdelivr.net/gh/YourOnly-One/content.gamut/rsc/img/vintage-kitchen-O%20Sulvia-cc0.webp "〈Vintage Kitchen〉 by O Sulvia, dedicated to the Public Domain under CC0 1.0 Universal.")
 
 Kitchen sink posts seem to be a forgotten tradition nowadays. Back in the early days of blogging, these posts were super helpful for both existing and potential users to discover all the features they could use.
 
