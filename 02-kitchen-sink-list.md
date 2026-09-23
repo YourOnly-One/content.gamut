@@ -1,3 +1,7 @@
+# A List of Kitchen Sink Posts
+
+![Vintage Kitchen](https://cdn.jsdelivr.net/gh/YourOnly-One/content.gamut/rsc/img/vintage-kitchen-O%20Sulvia-cc0.png "〈Vintage Kitchen〉 by O Sulvia, dedicated to the Public Domain under CC0 1.0 Universal.")
+
 Kitchen sink posts seem to be a forgotten tradition nowadays. Back in the early days of blogging, these posts were super helpful for both existing and potential users to discover all the features they could use.
 
 But did you know that this is actually still important today? More so within the ATmosphere network! There are quite a number of third-party Standard.site Readers out there, and from time to time, a user will encounter a post that is not rendering properly or is missing a feature. It can be a very slow process to just wait for someone to file a report and "fix" it on the developer's end.
