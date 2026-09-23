@@ -1,6 +1,6 @@
-# ATmosphere Social Apps
-
 ![The ATProto logo](https://cdn.jsdelivr.net/gh/YourOnly-One/content.gamut@HEAD/rsc/img/SocialWeb-ATmosphere.png "The ATProto logo, used under the Fair Use doctrine.")
+
+# ATmosphere Social Apps
 
 Here is a collection of ATmosphere frontend clients for ATProto microblogging (status, images, videos).
 
