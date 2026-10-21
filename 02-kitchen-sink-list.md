@@ -36,9 +36,14 @@ With Markpub:
 - [Native](https://mochott.site/test/test-post-with-markpub)
 - [PDS.ls](https://pds.ls/at://did:plc:io4jy6p7yv6xrlz4rp5redz2/site.standard.document/3mrq6ld4mos27)
 
-## Only three?
+### SkyPress
 
-Yes, for now! Markdown platforms are the easiest to set up. All I had to do was paste a Markdown kitchen sink template and add the platform-specific features. However, if you would like to help out, please feel free to reach out to me via @[sera.is.youronly.one](https://aturi.to/sera.is.youronly.one) or @[youronly.one](https://aturi.to/youronly.one) with the links to your own kitchen sink posts.
+- [Native](https://skypress.blog/@skypress.blog/its-always-sunny-on-skypress/3myf2myjrxk2o)
+- [PDS.ls](https://pds.ls/at://did:plc:sov5kv5byjmdksdjacjiysg3/site.standard.document/3myf2myjrxk2o)
+
+## Send your kitchen sink post
+
+Please feel free to reach out via @[sera.is.youronly.one](https://aturi.to/sera.is.youronly.one) or @[youronly.one](https://aturi.to/youronly.one) with the links to your own kitchen sink posts.
 
 ---
 
