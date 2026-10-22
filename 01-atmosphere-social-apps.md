@@ -58,7 +58,7 @@ This is a living document, think wiki, the page is updated as needed.
 | [Gems](https://thegems.app) | <ul><li>Jupiter Wallet integration (optional)</li><li>token leaderboard</li></ul> | ↪️ Social App ||
 | [Grain](https://grain.social) | <ul><li>gallery-style</li></ul> | 🌅 | [ATuri](https://aturi.to/grain.social) |
 | [Gsheps](https://bsky.gsheps.social) | (see Deer Fork (main)) | ↪️ Deer Fork<br>↪️ Deer Social<br>↪️ Social App ||
-| [Impro](https://impro.social) | <ul><li>custom highlight and like colors</li></ul> | 🌅 | [ATuri](https://aturi.to/impro.social) |
+| [Impro](https://impro.social) | <ul><li>Obsidian-style plugin system</li><li>custom highlight and like colors</li></ul> | 🌅 | [ATuri](https://aturi.to/impro.social) |
 | [jklb](https://jklb.social) (alpha) | <ul><li>keybindings</li><li>card view</li></ul> | 🌅 | [ATuri](https://aturi.to/jklb.jakesimonds.com) |
 | [Klearsky](https://klearsky.pages.dev) | <ul><li>More languages for Content and Post</li><li>Backdated post</li><li>Integration with Linkat.blue and Frontpage.fyi</li><li>Lightning wallet</li><li>Auto-translate</li><li>Trending page</li><li>Fold posts/replies</li></ul> | 🌅 ||
 | [Mackinac](https://mackinac.social) | <ul><li>Extended bio</li><li>Standard.site publications</li><li>Standard.site articles</li><li>Brid.gy profile view</li><li>Fediverse account login</li></ul> | 🌅 | [ATuri](https://aturi.to/mackinac.social) |
@@ -86,6 +86,8 @@ This is a living document, think wiki, the page is updated as needed.
 
 ## Revision History
 
+- 2026-10-22:
+  - Added: Obsidian-style plugin system feature for Impro
 - 2026-08-05:
   - Added: Mu Social
 - 2026-08-02:
