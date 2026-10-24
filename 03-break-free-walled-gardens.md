@@ -35,7 +35,7 @@ Cover image: 〈[Migrating Penguin](https://openclipart.org/detail/135385/migrat
 
 ---
 
-This article was first published on [GreenGale](https://greengale.app/sera.is.youronly.one/3mcht3dcqdu2k) platform on 2026-01-15 at 22:44:20 UTC+8.
+This article was first published on [GreenGale](https://greengale.app/sera.is.youronly.one/3mcht3dcqdu2k) platform on 2026-01-15 [@613.89](https://beattime.live) (22:44:20 UTC+8).
 
 ---
 
