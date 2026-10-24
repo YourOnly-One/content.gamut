@@ -160,7 +160,7 @@ Cover image: 《ATProto logo》, used under the Fair Use doctrine.
 
 ---
 
-This article was first published on [Greengale](https://greengale.app/youronly.one/3mby6pzj7442e) platform on 2026-01-09 [@395.83](https://beattime.live) (17:30:10 UTC+8).
+This article was first published on [GreenGale](https://greengale.app/youronly.one/3mby6pzj7442e) platform on 2026-01-09 [@395.83](https://beattime.live) (17:30:10 UTC+8).
 
 ---
 
