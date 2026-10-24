@@ -154,7 +154,15 @@ This is a living document, think wiki, the page is updated as needed.
   - Removed: iOS for Tokimeki
 - 2026-01-09 17:30 ACT (UTC+8): first publication
 
-***
+---
+
+Cover image: 《ATProto logo》, used under the Fair Use doctrine.
+
+---
+
+This article was first published on [Greengale](https://greengale.app/youronly.one/3mby6pzj7442e) platform on 2026-01-09 [@395.83](https://beattime.live) (17:30:10 UTC+8).
+
+---
 
 〈ATmosphere Social Apps〉 © 2026 [Yohan Yukiya Sese Cuneta](https://iam.youronly.one) ([ISNI](https://isni.org/isni/0000000530977207) | [ORCID iD](https://orcid.org/0000-0003-4755-4548)).\
 License: [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) ([CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)), except where [noted](https://im.youronly.one/p/legal-notice/).
