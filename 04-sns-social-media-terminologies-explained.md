@@ -29,7 +29,7 @@ Last update: 2026-02-12 08:15 UTC+8
   <dd id="dfn-atmosphere-01">
     <div role="definition">
 
-   A friendly name for the entire network built on top of <a href="#dfn-atproto" title="ATproto">ATproto</a>. [^atproto-atmosphere] [^atproto-atmosphere-paul-frazee]
+   A friendly name for the entire network built on top of <a href="#dfn-atproto" title="ATproto">ATproto</a>. [^atproto-atmosphere-20230503] [^atproto-atmosphere-20230711] [^atproto-atmosphere-20240901-paul-frazee]
     </div>
   </dd>
 
@@ -390,8 +390,10 @@ This article was first published on [techmagus](https://im.youronly.one/techmagu
 〈SNS, Social Media Terminologies Explained〉 © 2026 [Yohan Yukiya Sese Cuneta](https://iam.youronly.one) ([ISNI](https://isni.org/isni/0000000530977207) | [ORCID iD](https://orcid.org/0000-0003-4755-4548)).\
 License: [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) ([CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)), except where [noted](https://im.youronly.one/p/legal-notice/).
 
-[^atproto-atmosphere]: Kuba Suder: [There’s also the unofficial name “Atmosphere” or “ATmosphere” that some people use for the whole network built on top of ATProto](https://bsky.app/profile/mackuba.eu/post/3kuj2gilvmz26) (published: 2024-06-10) (archived 2024-06-10: [1](https://web.archive.org/web/20240609172210/https://bsky.app/profile/mackuba.eu/post/3kuj2gilvmz26) [2](https://archive.ph/vbTO2))
-[^atproto-atmosphere-paul-frazee]: Paul “Frazee”: [from:pfrazee.com atmosphere](https://bsky.app/search?q=from%3Apfrazee.com+atmosphere) (archived 2024-06-10: [1](https://web.archive.org/web/20240609172726/https://bsky.app/search?q=from%3Apfrazee.com+atmosphere) [2](https://archive.ph/KmQEm))
+
+[^atproto-atmosphere-20230503]: ("ATmosphere" was first coined in a mock-up what-if) 「a skeet that – if real! – would set two platforms on fire:」 [Gordon Mohr ꧁🧿🧿꧂, 2023-05-03](https://aturi.to/profile/did:plc:4kw3bnx3hegrxhsavdotbkfc/post/3jurpovrfup24) (archived 2026-10-25: [1](https://web.archive.org/web/20261025065236/https://aturi.to/profile/did:plc:4kw3bnx3hegrxhsavdotbkfc/post/3jurpovrfup24) [2](https://archive.ph/W5EDv))
+[^atproto-atmosphere-20230711]: 「Alright @jay.bsky.team @pfrazee.com @dholms.xyz @why.bsky.team @emily.bsky.team ..restofbskyteam hear me out network of ActivityPub servers = "fediverse" so federated AT Protocol / BlueSky = "ATmosphere" ;) okay sorry for pinging you all have a nice day」 [shreyan (unusual), 2023-07-11](https://aturi.to/profile/did:plc:bnqkww7bjxaacajzvu5gswdf/post/3k26nw6kwnh2e) (archived 2026-10-25: [1](https://web.archive.org/web/20261025064642/https://aturi.to/profile/did:plc:bnqkww7bjxaacajzvu5gswdf/post/3k26nw6kwnh2e) [2](https://archive.ph/OvapN))
+[^atproto-atmosphere-20240901-paul-frazee]: 「We talk about Bluesky getting users, but Bluesky is part of an open social internet called "The Atmosphere" where other people can make their own apps, including their own versions of Bluesky. Bluesky isn't growing; the Atmosphere is! You're not "our" users; you're a part of a shared place.」 [Paul Frazee, Bluesky dev, 2024-09-01](https://aturi.to/profile/did:plc:ragtjsm2j2vknwkz3zp4oxrd/post/3l32kiopoay2c) (archived 2026-10-25: [1](https://web.archive.org/web/20261025064135/https://aturi.to/profile/did:plc:ragtjsm2j2vknwkz3zp4oxrd/post/3l32kiopoay2c) [2](https://archive.ph/6ga4G))
 
 [^ddfon-yohan-yukiya-01]: Yahuhanan Yukiya Sese Cuneta: [Maybe this map can be useful to the #DDFON community?  Initial target market perhaps?](https://twitter.com/yahananxie/status/125139991214034944) (published: 2011–10–15) (archived 2024–06–09: [1](https://web.archive.org/web/20240608190704/https://x.com/yahananxie/status/125139991214034944) [2](https://archive.ph/qyKCj))
 [^ddfon-yohan-yukiya-02]: Yahuhanan Yukiya Sese Cuneta: [And good night Decentralized, Distributed, Federated, Open, Network!](https://twitter.com/yahananxie/status/134645906854260737) (published: 2011–11–10) (archived 2024–06–09: [1](https://web.archive.org/web/20240608191620/https://x.com/yahananxie/status/134645906854260737) [2](https://archive.ph/XLFHM))
