@@ -6,7 +6,7 @@ Have you come across terms like "Social Web", "Fediverse", "Threadiverse", "Nost
 
 ---
 
-Last update: 2026-02-12 08:15 UTC+8
+Last update: 2026-10-25 [@291.67](https://beattime.live) (15:00 UTC+8)
 
 ---
 
