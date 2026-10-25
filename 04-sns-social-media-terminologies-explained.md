@@ -19,7 +19,7 @@ Last update: 2026-10-25 [@291.67](https://beattime.live) (15:00 UTC+8)
   <dd id="dfn-activitypub-01">
     <div role="definition">
 
-   The protocol behind the <a href="#dfn-fediverse" title="Fediverse">Fediverse</a> network, recommended by the World Wide Web Consortium (W3C) since 2018–01–13.
+   The protocol behind the <a href="#dfn-fediverse" title="Fediverse">Fediverse</a> network, recommended by the World Wide Web Consortium (W3C) since 2018-01-13.
     </div>
   </dd>
 
@@ -29,7 +29,7 @@ Last update: 2026-10-25 [@291.67](https://beattime.live) (15:00 UTC+8)
   <dd id="dfn-atmosphere-01">
     <div role="definition">
 
-   A friendly name for the entire network built on top of <a href="#dfn-atproto" title="ATproto">ATproto</a>. [^atproto-atmosphere-20230503] [^atproto-atmosphere-20230711] [^atproto-atmosphere-20240901-paul-frazee]
+   A friendly name for the entire network built on top of <a href="#dfn-atproto" title="ATproto">ATproto</a>. [^atproto-atmosphere-20230503] [^atproto-atmosphere-20230711] [^atproto-atmosphere-20240901-paul-frazee] Coined by Gordon Mohr ꧁🧿🧿꧂ in 2023-05-03 and by shreyan (unusual) in 2023-07-11. Also known by the name <a href="#dfn-bluesky" title="Bluesky">Bluesky</a>—based on the flagship <a href="#dfn-pds" title="PDS">PDS</a>—in other countries.
     </div>
   </dd>
 
@@ -59,7 +59,7 @@ Last update: 2026-10-25 [@291.67](https://beattime.live) (15:00 UTC+8)
   <dd id="dfn-bluesky-01">
     <div role="definition">
 
-   The first public server powered by the <a href="#dfn-atproto" title="ATproto">ATproto</a> protocol, commonly but inaccurately used to refer to the entire ATmosphere network. Bluesky is only one of many ATproto servers. (see also: <a href="#dfn-atmosphere" title="ATmosphere">ATmosphere</a>)
+   The first public server powered by the <a href="#dfn-atproto" title="ATproto">ATproto</a> protocol. Bluesky is only one of many ATproto servers. (see also: <a href="#dfn-atmosphere" title="ATmosphere">ATmosphere</a>)
     </div>
   </dd>
 
@@ -69,7 +69,7 @@ Last update: 2026-10-25 [@291.67](https://beattime.live) (15:00 UTC+8)
   <dd id="dfn-ddfon-01">
     <div role="definition">
 
-   Stands for &#8220;Decentralised, Distributed, Federated, Open Network&#8221; ﹘ a term I coined in 2011, [^ddfon-yohan-yukiya-01] [^ddfon-yohan-yukiya-02].<!-- also known as "<a href="#dfn-mycelial-web" title="mycelial web">mycelial web</a>". -->
+   Stands for &#8220;Decentralised, Distributed, Federated, Open Network&#8221; ﹘ a term I coined in 2011. [^ddfon-yohan-yukiya-01] [^ddfon-yohan-yukiya-02] <!-- also known as "<a href="#dfn-mycelial-web" title="mycelial web">mycelial web</a>". -->
     </div>
   </dd>
 
