@@ -2,7 +2,7 @@
 
 # SNS, Social Media Terminologies Explained
 
-Have you come across terms like "Social Web", "Fediverse", "Threadiverse", "Nostr", "ATproto", "ActivityPub", and "DDFON"? They can sound quite techie and confusing, why don't we demystify them!
+Have you come across terms like 「Social Web」, 「Fediverse」, 「Threadiverse」, 「Nostr」, 「ATproto」, 「ActivityPub」, and 「DDFON」? They can sound quite techie and confusing, let's demystify them!
 
 ---
 
@@ -29,7 +29,9 @@ Last update: 2026-10-25 [@291.67](https://beattime.live) (15:00 UTC+8)
   <dd id="dfn-atmosphere-01">
     <div role="definition">
 
-   A friendly name for the entire network built on top of <a href="#dfn-atproto" title="ATproto">ATproto</a>. [^atproto-atmosphere-20230503] [^atproto-atmosphere-20230711] [^atproto-atmosphere-20240901-paul-frazee] Coined by Gordon Mohr ꧁🧿🧿꧂ in 2023-05-03 and by shreyan (unusual) in 2023-07-11. Also known by the name <a href="#dfn-bluesky" title="Bluesky">Bluesky</a>—based on the flagship <a href="#dfn-pds" title="PDS">PDS</a>—in other countries.
+   A friendly name for the entire network built on top of <a href="#dfn-atproto" title="ATproto">ATproto</a>. [^atproto-atmosphere-20230503] [^atproto-atmosphere-20230711] [^atproto-atmosphere-20240901-paul-frazee] Coined by Gordon Mohr ꧁🧿🧿꧂ in 2023-05-03 and by shreyan (unusual) in 2023-07-11.
+   
+   Also known by the name <a href="#dfn-bluesky" title="Bluesky">Bluesky</a>—based on the flagship <a href="#dfn-pds" title="PDS">PDS</a>—in other countries.
     </div>
   </dd>
 
@@ -69,7 +71,7 @@ Last update: 2026-10-25 [@291.67](https://beattime.live) (15:00 UTC+8)
   <dd id="dfn-ddfon-01">
     <div role="definition">
 
-   Stands for &#8220;Decentralised, Distributed, Federated, Open Network&#8221; ﹘ a term I coined in 2011. [^ddfon-yohan-yukiya-01] [^ddfon-yohan-yukiya-02] <!-- also known as "<a href="#dfn-mycelial-web" title="mycelial web">mycelial web</a>". -->
+   Stands for &#8220;Decentralized, Distributed, Federated, Open Network&#8221;, a term I coined in 2011. [^ddfon-yohan-yukiya-01] [^ddfon-yohan-yukiya-02] <!-- also known as "<a href="#dfn-mycelial-web" title="mycelial web">mycelial web</a>". -->
     </div>
   </dd>
 
@@ -89,7 +91,7 @@ Last update: 2026-10-25 [@291.67](https://beattime.live) (15:00 UTC+8)
   <dd id="dfn-did-01">
     <div role="definition">
 
-   The "Decentralised IDentity" is a permanent, digital "serial number" that is unique per user, it acts as a universal identifier that remains the same even if a user moves to a different service.
+   The 「Decentralised IDentity」 is a permanent, digital serial number that is unique per user, it acts as a universal identifier that remains the same even if a user moves to a different service.
     </div>
   </dd>
 
@@ -109,7 +111,7 @@ Last update: 2026-10-25 [@291.67](https://beattime.live) (15:00 UTC+8)
   <dd id="dfn-handle-01">
     <div role="definition">
 
-   A friendly username that serves as an easy-to-remember nickname online instead of a complex ID. In other networks, like the <a href="#dfn-atmosphere" title="ATmosphere">ATmosphere</a>, a handle can be updated anytime as an account is associated with its permanent <a href="#dfn-did" title="DID">DID</a>, not the handle.
+   A friendly username that serves as an easy-to-remember online nickname instead of a complex ID. In other networks, like the <a href="#dfn-atmosphere" title="ATmosphere">ATmosphere</a>, a handle can be updated anytime as an account is associated with its permanent <a href="#dfn-did" title="DID">DID</a>, not the handle.
     </div>
   </dd>
 
@@ -129,7 +131,7 @@ Last update: 2026-10-25 [@291.67](https://beattime.live) (15:00 UTC+8)
   <dd id="dfn-jabber-01">
     <div role="definition">
 
-   A federated instant messaging network, the first <a href="#dfn-ddfon" title="DDFON">DDFON</a>. The name was dropped in favour of the term <a href="#dfn-xmpp" title="XMPP">XMPP</a>.
+   A federated instant messaging network, the first <a href="#dfn-ddfon" title="DDFON">DDFON</a>. The name was dropped in favor of <a href="#dfn-xmpp" title="XMPP">XMPP</a>.
     </div>
   </dd>
 
@@ -187,7 +189,7 @@ Last update: 2026-10-25 [@291.67](https://beattime.live) (15:00 UTC+8)
   <dd id="dfn-nostr-02">
     <div role="definition">
 
-   The name stands for <q>Notes and Other Stuff Transmitted by Relays</q>.
+   The name stands for 「Notes and Other Stuff Transmitted by Relays」.
     </div>
   </dd>
 
@@ -227,19 +229,19 @@ Last update: 2026-10-25 [@291.67](https://beattime.live) (15:00 UTC+8)
   <dd id="dfn-pds-01">
     <div role="definition">
 
-   "Personal Digital Store", a system for capturing a lifetime of personal documents and media. First described by Bell and Gemmell for the **MyLifeBits project** at Microsoft Research. [^coined-pds-01]
+   「Personal Digital Store」, a system for capturing a lifetime of personal documents and media. First described by Bell and Gemmell for the **MyLifeBits project** at Microsoft Research. [^coined-pds-01]
     </div>
   </dd>
   <dd id="dfn-pds-02">
     <div role="definition">
 
-   "Personal Data Store", a citizen-empowering personal data infrastructure—defined by Mydex in their September 2010 white paper [^coined-pds-02], and established as a global standard by the World Economic Forum [^coined-pds-03]. **Project Danube** was a reference implementation of a PDS while also federated to the <a href="#dfn-fediverse" title="Fediverse">Fediverse</a> network (2010–2013). [^coined-pds-04]
+   「Personal Data Store」, a citizen-empowering personal data infrastructure—defined by Mydex in their September 2010 white paper [^coined-pds-02], and established as a global standard by the World Economic Forum [^coined-pds-03]. **Project Danube** was a reference implementation of a PDS while also federated to the <a href="#dfn-fediverse" title="Fediverse">Fediverse</a> network (2010–2013). [^coined-pds-04]
     </div>
   </dd>
   <dd id="dfn-pds-03">
     <div role="definition">
 
-   The <a href="#dfn-atproto" title="ATproto">ATproto</a> "Personal Data Server", is a modern implementation of a PDS specific for the protocol.
+   「Personal Data Server」, is a modern implementation of a PDS specific for the <a href="#dfn-atproto" title="ATproto">ATproto</a> protocol.
     </div>
   </dd>
 
@@ -259,7 +261,7 @@ Last update: 2026-10-25 [@291.67](https://beattime.live) (15:00 UTC+8)
   <dd id="dfn-semantic-web01">
     <div role="definition">
 
-   One of the original meanings of <a href="#dfn-web3-point-O" title="Web3.0">Web3.0</a>, where the web becomes <q class="quote_work" translate="no"><bdi lang="en">capable of analyzing all the data on the Web—the content, links, and transactions between people and computers</bdi></q> through W3C standards.
+   One of the original meanings of <a href="#dfn-web3-point-O" title="Web3.0">Web3.0</a>, where the web becomes 「capable of analyzing all the data on the Web—the content, links, and transactions between people and computers」 through W3C standards.
     </div>
   </dd>
 
@@ -269,7 +271,7 @@ Last update: 2026-10-25 [@291.67](https://beattime.live) (15:00 UTC+8)
   <dd id="dfn-sns-01">
     <div role="definition">
 
-   The original term for <a href="#dfn-social-media" title="social media">social media</a>, still commonly used in Korea and the Asia-Pacific region.
+   The original term for <a href="#dfn-social-media" title="social media">social media</a>, still commonly used in Korea and the Pacific-Asia region.
     </div>
   </dd>
 
@@ -298,7 +300,7 @@ Last update: 2026-10-25 [@291.67](https://beattime.live) (15:00 UTC+8)
   <dd id="dfn-social-web-01">
     <div role="definition">
 
-   Also known as <a href="#dfn-web3" title="Web3">Web3</a> or <a href="#dfn-web3-point-O" title="Web3.0">Web3.0</a>, it promotes an open, interoperable web instead of closed silos. It is about building platforms that interoperate through federation and bridges, while ensuring resiliency through distribution and decentralization. [^web3-jesse-stay] [^web3-loic-le-meur-01] [^web3-loic-le-meur-02] [^web3-loic-le-meur-03] It is the same as "Open Social Web" and "Open Social", and is a very broad term that goes beyond <a href="#dfn-ddfon" title="DDFON">DDFON</a>. [^socialweb-wikipedeia] [^socialweb-w3c-01] [^socialweb-w3c-02] [^socialweb-w3c-03]
+   Also known as <a href="#dfn-web3" title="Web3">Web3</a> or <a href="#dfn-web3-point-O" title="Web3.0">Web3.0</a>, it promotes an open, interoperable web instead of closed silos. It is about building platforms that interoperate through federation and bridges, while ensuring resiliency through distribution and decentralization. [^web3-jesse-stay] [^web3-loic-le-meur-01] [^web3-loic-le-meur-02] [^web3-loic-le-meur-03] It is the same as 「Open Social Web」 and 「Open Social」, and is a very broad term that goes beyond <a href="#dfn-ddfon" title="DDFON">DDFON</a>. [^socialweb-wikipedeia] [^socialweb-w3c-01] [^socialweb-w3c-02] [^socialweb-w3c-03]
     </div>
   </dd>
 
