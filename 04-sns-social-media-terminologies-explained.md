@@ -387,7 +387,7 @@ This article was first published on [techmagus](https://im.youronly.one/techmagu
 
 ---
 
-〈SNS, Social Media Terminologies Explained〉 © 2026 [Yohan Yukiya Sese Cuneta](https://iam.youronly.one) ([ISNI](https://isni.org/isni/0000000530977207) | [ORCID iD](https://orcid.org/0000-0003-4755-4548)).\
+〈SNS, Social Media Terminologies Explained〉 © 2024, 2026 [Yohan Yukiya Sese Cuneta](https://iam.youronly.one) ([ISNI](https://isni.org/isni/0000000530977207) | [ORCID iD](https://orcid.org/0000-0003-4755-4548)).\
 License: [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) ([CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)), except where [noted](https://im.youronly.one/p/legal-notice/).
 
 
