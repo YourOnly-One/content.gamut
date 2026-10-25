@@ -403,7 +403,7 @@ License: [Creative Commons Attribution-ShareAlike 4.0 International](https://cre
 [^coined-fediverse-mark-eckenwiler]: 「Fully accessible from my part of the fediverse」 [Mark Eckenwiler](https://twitter.com/20002ist/status/205736841578676224) (published: 2012–05–25) (archived: [1](https://web.archive.org/web/20221210090041/https://twitter.com/20002ist/status/205736841578676224) [2](https://archive.ph/AEF4N))
 [^coined-fediverse-marjolein-katsma]: 「good morning / #tzag #identiverse / fediverse :)」 [Marjolein Katsma](https://twitter.com/marjoleink/status/294319886602207232) (published: 2013–01–24) (archived: [1](https://archive.ph/Vdbej))
 [^coined-fediverse-twitter]: Twitter search: [(fediverse) until:2013–01–31 since:2006–01–01](https://twitter.com/search?q=%28fediverse%29+until%3A2013-01-31+since%3A2006-01-01&f=live) (archived: [1](https://web.archive.org/web/20221210085942/https://twitter.com/search?q=%28fediverse%29+until%3A2013-01-31+since%3A2006-01-01&f=live) [2](https://archive.ph/7mRl5))
-[^coined-identiverse-luke-slater]: Luke Slater: 「Time for bed. Goodnight Identiverse. Thank you for existing!」 (published: 2010–03–14) (archived: [1](https://web.archive.org/web/20100315074655/identi.ca/reality))
+[^coined-identiverse-luke-slater]: 「Time for bed. Goodnight Identiverse. Thank you for existing!」 Luke Slater (published: 2010–03–14) (archived: [1](https://web.archive.org/web/20100315074655/identi.ca/reality))
 [^coined-identiverse-identica]: identi.ca: Notices tagged with identiverse (archived: [1](https://web.archive.org/web/20100523080641/identi.ca/tag/identiverse))
 
 [^coined-pds-01]: Communications of the ACM: [A personal digital store](https://doi.org/10.1145/357489.357513)
