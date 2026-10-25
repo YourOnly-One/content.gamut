@@ -1,5 +1,7 @@
 ![People Network](https://cdn.jsdelivr.net/gh/YourOnly-One/content.gamut/rsc/img/people-network.svg "〈People Network〉 by liftarn, dedicated to the Public Domain under CC0 1.0 Universal.")
 
+# SNS, Social Media Terminologies Explained
+
 Have you come across terms like "Social Web", "Fediverse", "Threadiverse", "Nostr", "ATproto", "ActivityPub", and "DDFON"? They can sound quite techie and confusing, why don't we demystify them!
 
 ---
@@ -271,9 +273,14 @@ Last update: 2026-02-12 08:15 UTC+8
     </div>
   </dd>
 
+<!--
 ![Social Web in Action](https://cdn.jsdelivr.net/gh/YourOnly-One/content.gamut/rsc/img/social-web-action-01.png "〈Social Web in Action〉 by Yohan Yukiya Sese Cuneta, dedicated to the Public Domain under CC0 1.0 Universal.")
 
 <small>To the extent possible under law, <a href="https://im.youronly.one/" rel="dct:publisher noopener">Yohan Yukiya Sese Cuneta</a> has <a href="https://creativecommons.org/publicdomain/zero/1.0/" rel="license noopener external">waived all copyright and related or neighbouring rights</a> to <cite><a href="https://im.youronly.one/techmagus/images/m/mycelial-web-01.png" rel="dct:title noopener">Social Web in Action</a></cite>. This work is published from <span property="vcard:Country" datatype="dct:ISO3166" content="PH" about="https://en.wikipedia.org/wiki/Philippines"><a href="https://en.wikipedia.org/wiki/Philippines" rel="noopener external">Philippines</a></span>.</small>
+-->
+
+<figure><img src="https://cdn.jsdelivr.net/gh/YourOnly-One/content.gamut/rsc/img/social-web-action-01.png" alt="Social Web in Action"><figcaption><small>To the extent possible under law, <a href="https://im.youronly.one/" rel="dct:publisher noopener">Yohan Yukiya Sese Cuneta</a> has <a href="https://creativecommons.org/publicdomain/zero/1.0/" rel="license noopener external">waived all copyright and related or neighbouring rights</a> to <cite><a href="https://im.youronly.one/techmagus/images/m/mycelial-web-01.png" rel="dct:title noopener">Social Web in Action</a></cite>.<br>This work is published from <span property="vcard:Country" datatype="dct:ISO3166" content="PH" about="https://en.wikipedia.org/wiki/Philippines"><a href="https://en.wikipedia.org/wiki/Philippines" rel="noopener external">Philippines</a></span>.</small></figcaption></figure>
+
 
   <dt role="listitem" id="dfn-social-media">
     <dfn role="term"><p><b>Social Media</b></p></dfn>
