@@ -1,4 +1,4 @@
-![People Network](https://cdn.jsdelivr.net/gh/YourOnly-One/content.gamut/rsc/img/people-network.svg "〈People Network〉 by liftarn, dedicated to the Public Domain under CC0 1.0 Universal.")
+<figure><img src="https://cdn.jsdelivr.net/gh/YourOnly-One/content.gamut/rsc/img/people-network.svg" alt="People Network"><figcaption><small>〈<a href="https://openclipart.org/detail/322819/people-network">People Network</a>〉 by <a href="https://openclipart.org/artist/liftarn">liftarn</a> is marked <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal</a>.</small></figcaption></figure>
 
 # SNS, Social Media Terminologies Explained
 
@@ -381,7 +381,7 @@ Last update: 2026-10-25 [@291.67](https://beattime.live) (15:00 UTC+8)
 
 ---
 
-Cover image: 〈[People Network](https://openclipart.org/detail/322819/people-network)〉 by [liftarn](https://openclipart.org/artist/liftarn), dedicated to the Public Domain under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/).
+Cover image: 〈[People Network](https://openclipart.org/detail/322819/people-network)〉 by [liftarn](https://openclipart.org/artist/liftarn) is marked [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/).
 
 ---
 
