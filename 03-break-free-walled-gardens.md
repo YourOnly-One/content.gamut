@@ -1,4 +1,4 @@
-![Migrating Penguin](https://cdn.jsdelivr.net/gh/YourOnly-One/content.gamut/rsc/img/Migrating%20Penguin-Moini-cc0.png "〈Migrating Penguin〉 by Moini, dedicated to the Public Domain under CC0 1.0 Universal.")
+![Migrating Penguin](https://cdn.jsdelivr.net/gh/YourOnly-One/content.gamut/rsc/img/migrating-penguin-moini-cc0.svg "〈Migrating Penguin〉 by Moini, dedicated to the Public Domain under CC0 1.0 Universal.")
 
 # Break Free from Walled Gardens
 
