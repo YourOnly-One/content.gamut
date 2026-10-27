@@ -1,4 +1,4 @@
-![The ATProto logo](https://cdn.jsdelivr.net/gh/YourOnly-One/content.gamut@HEAD/rsc/img/SocialWeb-ATmosphere.png "The ATProto logo, used under the Fair Use doctrine.")
+<figure prefix="spdx: http://spdx.org/rdf/terms#" property="copyrightNotice" typeof="ImageObject" vocab="http://schema.org/"><img src="https://cdn.jsdelivr.net/gh/YourOnly-One/content.gamut@HEAD/rsc/img/SocialWeb-ATmosphere.png" alt="ATProto logo"><figcaption>〈<span class="p-name" property="name">ATProto logo</span>〉 by <span property="author" typeof="Person" style="text-transform: capitalize;" class="h-card p-author p-name" property="name">Bluesky LPBC</span>, used under the Fair Use doctrine.</figcaption></figure>
 
 # ATmosphere Social Apps
 
@@ -156,7 +156,7 @@ This is a living document, think wiki, the page is updated as needed.
 
 ---
 
-Cover image: 《ATProto logo》, used under the Fair Use doctrine.
+Cover image: 〈ATProto logo〉, used under the Fair Use doctrine.
 
 ---
 
