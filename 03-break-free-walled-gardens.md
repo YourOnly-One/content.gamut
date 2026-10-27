@@ -1,4 +1,4 @@
-![Migrating Penguin](https://cdn.jsdelivr.net/gh/YourOnly-One/content.gamut/rsc/img/migrating-penguin-moini-cc0.svg "〈Migrating Penguin〉 by Moini, dedicated to the Public Domain under CC0 1.0 Universal.")
+<figure prefix="spdx: http://spdx.org/rdf/terms#" property="copyrightNotice" typeof="ImageObject" vocab="http://schema.org/"><img src="https://cdn.jsdelivr.net/gh/YourOnly-One/content.gamut/rsc/img/migrating-penguin-moini-cc0.svg" alt="Migrating Penguin"><figcaption>〈<a href="https://openclipart.org/detail/135385/migrating-penguin" class="p-name" property="name" title="Migrating Penguin">Migrating Penguin</a>〉 by <span property="author" typeof="Person"><a href="https://openclipart.org/artist/Moini" class="h-card p-author p-name u-url" property="name url" rel="author noopener noreferrer" title="Moini">Moini</a></span> is marked <span class="u-license" property="license" typeof="spdx:License"><a href="https://creativecommons.org/publicdomain/zero/1.0/" property="spdx:name" rel="license spdx:CC0-1.0" title="CC0 1.0 Universal (SPDX-License-Identifier: CC0-1.0)">CC0 1.0 Universal</a></span>.</figcaption></figure>
 
 # Break Free from Walled Gardens
 
@@ -31,7 +31,7 @@ Without further ado …
 
 ---
 
-Cover image: 〈[Migrating Penguin](https://openclipart.org/detail/135385/migrating-penguin)〉 by [Moini](https://openclipart.org/artist/Moini), dedicated to the Public Domain under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/).
+Cover image: 〈[Migrating Penguin](https://openclipart.org/detail/135385/migrating-penguin)〉 by [Moini](https://openclipart.org/artist/Moini) is marked [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/).
 
 ---
 
