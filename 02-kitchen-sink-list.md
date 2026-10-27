@@ -1,4 +1,4 @@
-![Vintage Kitchen](https://cdn.jsdelivr.net/gh/YourOnly-One/content.gamut/rsc/img/vintage-kitchen-O%20Sulvia-cc0.webp "〈Vintage Kitchen〉 by O Sulvia, dedicated to the Public Domain under CC0 1.0 Universal.")
+<figure prefix="spdx: http://spdx.org/rdf/terms#" property="copyrightNotice" typeof="ImageObject" vocab="http://schema.org/"><img src="https://cdn.jsdelivr.net/gh/YourOnly-One/content.gamut/rsc/img/vintage-kitchen-O%20Sulvia-cc0.webp" alt="Vintage Kitchen"><figcaption>〈<a href="https://www.publicdomainpictures.net/en/view-image.php?image=756563&picture=vintage-kitchen" class="p-name" property="name" title="Vintage Kitchen">Vintage Kitchen</a>〉 by <span property="author" typeof="Person" style="text-transform: capitalize;" class="h-card p-author p-name u-url" property="nameurl">O Sulvia</span> is marked <span class="u-license" property="license" typeof="spdx:License"><a href="https://creativecommons.org/publicdomain/zero/1.0/" property="spdx:name" rel="license spdx:CC0-1.0" title="CC0 1.0 Universal (SPDX-License-Identifier: CC0-1.0)">CC0 1.0 Universal</a></span>.</figcaption></figure>
 
 # A List of Kitchen Sink Posts
 
@@ -47,7 +47,7 @@ Please feel free to reach out via @[sera.is.youronly.one](https://aturi.to/sera.
 
 ---
 
-Cover image: 〈[Vintage Kitchen](https://www.publicdomainpictures.net/en/view-image.php?image=756563&picture=vintage-kitchen)〉 by O Sulvia, dedicated to the Public Domain under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/).
+Cover image: 〈[Vintage Kitchen](https://www.publicdomainpictures.net/en/view-image.php?image=756563&picture=vintage-kitchen)〉 by O Sulvia is marked [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/).
 
 ---
 
