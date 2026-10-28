@@ -39,7 +39,7 @@ Here's a list of Unicode emojis that I think fits well for each open social web 
 1. Witchsky 🧙🏽
 1. WriteFreely ✍🏽
 
-### Guidelines
+## Guidelines
 
 - No duplicates
 - Single emoji is the priority
